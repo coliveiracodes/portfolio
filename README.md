@@ -85,7 +85,7 @@ Web application for exploring tourism destinations with a public interface and a
 ## 📬 Contacto | Contact
 
 - GitHub: https://github.com/coliveiracodes  
-- LinkedIn: (ADICIONAR LINK)
+- LinkedIn: https://www.linkedin.com/in/coliveiradev/
 
 ---
 
